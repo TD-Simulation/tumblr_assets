@@ -25,7 +25,6 @@
         android:layout_marginTop="117dp"
         android:layout_below="@+id/textView"
         android:layout_alignRight="@+id/textView"
-        android:layout_alignEnd="@+id/textView"
-        android:onClick="logIn" />
+        android:layout_alignEnd="@+id/textView" />
 
 </RelativeLayout>
